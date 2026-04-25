@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+header {
+    color: darkblue;
+}
+
+nav a {
+    color: red;
+    font-size: 18px;
+    padding: 3px;
+}
+
+h1 {
+    color: navy;
+    font-size: 30px;
+}
+
+h2 {
+    color: darkgreen;
+    font-size: 24px;
+}
+
+p {
+    color: #333;
+    font-size: 16px;
+}
+
+ul {
+    color: black;
+    font-size: 16px;
+}
+
+ol {
+    color: black;
+    font-size: 16px;
+}
+
+table {
+    color: black;
+    font-size: 16px;
+}
+
+footer {
+ 
+    text-align: center;
+    font-size: 14px;
+    background-color: #fff7f7;
+    height: 100px;
+    width: auto;
+}
+img
+{
+    width: 300px;
+    height: 250px;
+}
